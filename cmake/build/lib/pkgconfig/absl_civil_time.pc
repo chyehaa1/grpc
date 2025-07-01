@@ -1,0 +1,12 @@
+prefix=/home/kasm-user/.local
+exec_prefix=${prefix}
+libdir=/home/kasm-user/.local/lib
+includedir=/home/kasm-user/.local/include
+
+Name: absl_civil_time
+Description: Abseil civil_time library
+URL: https://abseil.io/
+Version: 20250127
+Requires:
+Libs: -L${libdir}  -labsl_civil_time 
+Cflags: -I${includedir} -DNOMINMAX

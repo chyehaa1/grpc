@@ -1,0 +1,12 @@
+prefix=/home/kasm-user/.local
+exec_prefix=${prefix}
+libdir=/home/kasm-user/.local/lib
+includedir=/home/kasm-user/.local/include
+
+Name: absl_compressed_tuple
+Description: Abseil compressed_tuple library
+URL: https://abseil.io/
+Version: 20250127
+Requires: absl_utility = 20250127
+Libs: -L${libdir}  
+Cflags: -I${includedir} -DNOMINMAX

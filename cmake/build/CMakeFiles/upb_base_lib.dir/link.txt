@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_base_lib.a CMakeFiles/upb_base_lib.dir/third_party/upb/upb/base/status.c.o
+/usr/bin/ranlib libupb_base_lib.a

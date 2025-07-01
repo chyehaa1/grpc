@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_mini_table_lib.a CMakeFiles/upb_mini_table_lib.dir/third_party/upb/upb/mini_table/extension_registry.c.o CMakeFiles/upb_mini_table_lib.dir/third_party/upb/upb/mini_table/internal/message.c.o CMakeFiles/upb_mini_table_lib.dir/third_party/upb/upb/mini_table/message.c.o
+/usr/bin/ranlib libupb_mini_table_lib.a

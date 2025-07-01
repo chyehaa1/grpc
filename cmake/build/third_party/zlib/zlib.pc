@@ -1,0 +1,13 @@
+prefix=/home/kasm-user/.local
+exec_prefix=/home/kasm-user/.local
+libdir=/home/kasm-user/.local/lib
+sharedlibdir=/home/kasm-user/.local/lib
+includedir=/home/kasm-user/.local/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.3.1.1
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

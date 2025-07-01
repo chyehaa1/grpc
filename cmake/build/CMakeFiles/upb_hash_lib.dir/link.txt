@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_hash_lib.a CMakeFiles/upb_hash_lib.dir/third_party/upb/upb/hash/common.c.o
+/usr/bin/ranlib libupb_hash_lib.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_textformat_lib.a CMakeFiles/upb_textformat_lib.dir/third_party/upb/upb/text/encode.c.o CMakeFiles/upb_textformat_lib.dir/third_party/upb/upb/text/internal/encode.c.o
+/usr/bin/ranlib libupb_textformat_lib.a

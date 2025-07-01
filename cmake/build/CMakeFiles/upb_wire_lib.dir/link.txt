@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_wire_lib.a CMakeFiles/upb_wire_lib.dir/third_party/upb/upb/message/internal/iterator.c.o CMakeFiles/upb_wire_lib.dir/third_party/upb/upb/wire/decode.c.o CMakeFiles/upb_wire_lib.dir/third_party/upb/upb/wire/encode.c.o CMakeFiles/upb_wire_lib.dir/third_party/upb/upb/wire/eps_copy_input_stream.c.o CMakeFiles/upb_wire_lib.dir/third_party/upb/upb/wire/internal/decode_fast.c.o CMakeFiles/upb_wire_lib.dir/third_party/upb/upb/wire/reader.c.o
+/usr/bin/ranlib libupb_wire_lib.a

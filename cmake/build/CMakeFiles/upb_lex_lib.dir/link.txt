@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_lex_lib.a CMakeFiles/upb_lex_lib.dir/third_party/upb/upb/lex/atoi.c.o CMakeFiles/upb_lex_lib.dir/third_party/upb/upb/lex/round_trip.c.o CMakeFiles/upb_lex_lib.dir/third_party/upb/upb/lex/strtod.c.o CMakeFiles/upb_lex_lib.dir/third_party/upb/upb/lex/unicode.c.o
+/usr/bin/ranlib libupb_lex_lib.a

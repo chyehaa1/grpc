@@ -1,0 +1,12 @@
+prefix=/home/kasm-user/.local
+exec_prefix=${prefix}
+libdir=/home/kasm-user/.local/lib
+includedir=/home/kasm-user/.local/include
+
+Name: absl_tracing_internal
+Description: Abseil tracing_internal library
+URL: https://abseil.io/
+Version: 20250127
+Requires: absl_base = 20250127
+Libs: -L${libdir}  -labsl_tracing_internal 
+Cflags: -I${includedir} -DNOMINMAX

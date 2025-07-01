@@ -1,0 +1,2 @@
+/usr/bin/ar qc libupb_mem_lib.a CMakeFiles/upb_mem_lib.dir/third_party/upb/upb/mem/alloc.c.o CMakeFiles/upb_mem_lib.dir/third_party/upb/upb/mem/arena.c.o
+/usr/bin/ranlib libupb_mem_lib.a
